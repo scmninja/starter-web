@@ -1,2 +1,7 @@
-# starter-web
-My Starter web
+## Starter web
+
+Forking
+
+## Purpose
+
+Sample website with plenty of files for demos
